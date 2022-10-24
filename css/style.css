@@ -1,3 +1,22 @@
 .gomb{
     padding: 100px;
 }
+.doboz{
+    margin: auto;
+    width: 50%;
+    border: 5px solid white;
+    padding: 10px;}
+.keret{
+    border: 2px solid red;
+    font-size: 3rem;
+}
+.cim{
+    font-size: 3rem;
+}
+.kep{
+    border-radius: 10px;
+}
+.leiras{
+    font-size: 1.2rem;
+    text-align: justify;
+}
