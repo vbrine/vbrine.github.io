@@ -1,5 +1,5 @@
 .gomb{
-    padding: 100px;
+    padding: 50px;
 }
 .doboz{
     margin: auto;
@@ -19,4 +19,8 @@
 .leiras{
     font-size: 1.2rem;
     text-align: justify;
+}
+.icon{
+    width: 70px;
+    height: 70px;
 }
