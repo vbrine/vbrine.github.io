@@ -1,13 +1,13 @@
 .gomb{
     padding: 50px;
+    text-align: center;
 }
 .doboz{
+    background-color: rgba(70, 70, 70, 0.61);
     margin: auto;
-    width: 50%;
-    border: 5px solid white;
+    width: 50%; 
     padding: 10px;}
 .keret{
-    border: 2px solid red;
     font-size: 3rem;
 }
 .cim{
@@ -23,4 +23,14 @@
 .icon{
     width: 70px;
     height: 70px;
+}
+.gomb a{
+    text-decoration: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all 0.75s;
+}
+.gomb a:hover{
+    color: rgba(0, 0, 0, 0.694);
+    text-decoration: underline;
 }
