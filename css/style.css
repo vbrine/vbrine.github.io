@@ -19,6 +19,9 @@
 .leiras{
     font-size: 1.2rem;
     text-align: justify;
+    padding: 0px 30px;
+    border: 5px solid rgba(126, 56, 56, 0.664);
+    border-radius: 20px;
 }
 .icon{
     width: 70px;
@@ -33,4 +36,8 @@
 .gomb a:hover{
     color: rgba(0, 0, 0, 0.694);
     text-decoration: underline;
+}
+.cim2{
+    border: 10px green solid;
+    border-radius: 20px;
 }
