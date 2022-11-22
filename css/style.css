@@ -6,7 +6,8 @@
     background-color: rgba(70, 70, 70, 0.61);
     margin: auto;
     width: 50%; 
-    padding: 10px;}
+    padding: 10px;
+}
 .keret{
     font-size: 3rem;
 }
@@ -14,7 +15,8 @@
     font-size: 3rem;
 }
 .kep{
-    border-radius: 10px;
+    border-radius: 40px;
+    padding: 10px;
 }
 .leiras{
     font-size: 1.2rem;
@@ -39,5 +41,10 @@
 }
 .cim2{
     border: 10px green solid;
+    border-radius: 20px;
+}
+.cimcim{
+    padding: 10px;
+    border: solid 10px rgba(17, 130, 165, 0.884);
     border-radius: 20px;
 }
