@@ -4,7 +4,7 @@
 }
 .doboz{
     background-color: rgba(70, 70, 70, 0.61);
-    margin: auto;
+    margin: 75px 350px 75px 350px;
     width: 50%; 
     padding: 10px;
 }
@@ -13,16 +13,19 @@
 }
 .cim{
     font-size: 3rem;
+    color: gray;
 }
 .kep{
     border-radius: 40px;
-    padding: 10px;
+    padding: 0px;
+    border: solid 5px rgb(66, 66, 66);
+    margin: 0px;
 }
 .leiras{
     font-size: 1.2rem;
     text-align: justify;
     padding: 0px 30px;
-    border: 5px solid rgba(126, 56, 56, 0.664);
+    border: 5px solid rgba(56, 126, 56, 0.664);
     border-radius: 20px;
 }
 .icon{
@@ -39,12 +42,30 @@
     color: rgba(0, 0, 0, 0.694);
     text-decoration: underline;
 }
-.cim2{
-    border: 10px green solid;
-    border-radius: 20px;
-}
 .cimcim{
     padding: 10px;
     border: solid 10px rgba(17, 130, 165, 0.884);
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+}
+.leiras2{
+    font-size: 1.2rem;
+    text-align: justify;
+    padding: 0px 30px;
+    border: 5px solid rgb(255, 208, 0, 0.664);
+    border-radius: 20px;
+}
+.leiras3{
+    font-size: 1.2rem;
+    text-align: justify;
+    padding: 0px 30px;
+    border: 5px solid rgba(158, 60, 60, 0.664);
+    border-radius: 20px;
+}
+.leiras4{
+    font-size: 1.2rem;
+    text-align: justify;
+    padding: 0px 30px;
+    border: 5px solid rgba(255, 255, 255, 0.664);
     border-radius: 20px;
 }
