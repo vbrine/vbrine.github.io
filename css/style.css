@@ -27,6 +27,7 @@
     padding: 0px 30px;
     border: 5px solid rgba(56, 126, 56, 0.664);
     border-radius: 20px;
+    color: white;
 }
 .icon{
     width: 70px;
@@ -46,7 +47,7 @@
     padding: 10px;
     border: solid 10px rgba(17, 130, 165, 0.884);
     border-radius: 20px;
-    color: rgb(0, 0, 0);
+    color: gray;
 }
 .leiras2{
     font-size: 1.2rem;
@@ -54,6 +55,7 @@
     padding: 0px 30px;
     border: 5px solid rgb(255, 208, 0, 0.664);
     border-radius: 20px;
+    color: white;
 }
 .leiras3{
     font-size: 1.2rem;
@@ -61,6 +63,7 @@
     padding: 0px 30px;
     border: 5px solid rgba(158, 60, 60, 0.664);
     border-radius: 20px;
+    color: white;
 }
 .leiras4{
     font-size: 1.2rem;
@@ -68,4 +71,9 @@
     padding: 0px 30px;
     border: 5px solid rgba(255, 255, 255, 0.664);
     border-radius: 20px;
+    color: white;
+}
+.icon2{
+    width: 70px;
+    height: 70px;
 }
