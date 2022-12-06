@@ -2,11 +2,18 @@
     padding: 50px;
     text-align: center;
 }
+.indexcim{
+    border: 10px;
+    border-radius: 10px;
+    background-color: aqua;
+    font-size: xx-large;
+}
 .doboz{
     background-color: rgba(70, 70, 70, 0.61);
     margin: 75px 350px 75px 350px;
     width: 50%; 
     padding: 10px;
+    border-radius: 50px;
 }
 .keret{
     font-size: 3rem;
